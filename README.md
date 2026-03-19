@@ -1,84 +1,18 @@
-# 👋 Hi, I'm MD Mahbubur Rahman
+## Hey, I'm Mahbubur Rahman 👋
 
-🎓 Software Engineer | 🤖 Robotics Enthusiast | 💻 Competitive Programmer  
+I'm a Software Engineering student focused on building scalable and efficient systems.  
+I work mainly with **Java, Spring Boot, and modern web technologies**, with a strong foundation in core CS concepts.
 
----
-
-## 🚀 About Me
-- 🎯 Aspiring **Expert Programmer & Software Engineer**
-- 🧠 Strong focus on **Data Structures & Algorithms (Java)**
-- 💡 Passionate about solving real-world problems using software & hardware integration
-- 🔬 Interested in **AI, IoT, and System Design**
+My goal is to become a high-level software engineer by mastering system design, backend development, and problem solving.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Programming
-- C, C++, Java
-
-### 🧠 Core Skills
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Operating Systems
-- Database Management Systems
-
-### ⚙️ Tools & Technologies
-- Arduino, Raspberry Pi
-- Git & GitHub
-- MySQL / SQL
-- Tailwind CSS, React (basic)
+💻 Backend Development ➡︎ Java, Spring Boot  
+🌐 Frontend ➡︎ HTML, CSS, Tailwind, React (basic)  
+🗄️ Database ➡︎ MySQL, SQL  
+🧠 Core CS ➡︎ DSA, OOP, Operating Systems  
+🚀 Interests ➡︎ System Design, AI, Scalable Applications  
 
 ---
 
-## 🤖 Projects
-
-### 🔹 Software
-- 🍽️ **Food Donation & Management System** (Java)
-- 💰 **Personal Finance Management System** (Java)
-- 🤖 **Nova AI Chatbot **
-- 💻 **DocHome (Doctors appointment Schaduling Web Application)**
-
-### 🔹 Robotics & IoT
-- 🚨 Long Range Fire Alarm System  
-- 🚦 Smart Traffic Control System  
-- 🤖 Line Follower & Obstacle Avoidance Robot  
-- 🌱 Automated Plant Watering System  
-- 🏠 IoT Smart Home System  
-- 🗑️ Smart Waste Sorting Bin (Mr. Bean)
-
----
-
-## 🏆 Competitive Programming
-- 💻 Regular problem solver
-- 📈 Focused on optimizing time & space complexity
-- 🔍 علاقه in algorithmic problem solving & contests
-
----
-
-## 📚 Currently Learning
-- Advanced DSA & Problem Solving  
-- System Design Basics  
-- LLM Deployment & Optimization  
-- Backend Development (Spring Boot)
-
----
-
-## 🤝 Let's Collaborate
-- Open to projects in:
-  - AI / Machine Learning
-  - Robotics & IoT
-  - Full Stack Development
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/mahbuburrahman21
-- LinkedIn: https://www.linkedin.com/in/md-mahbubur-rahman-149312246/
-
----
-
-## ⚡ Fun Fact
-> I love building systems that connect **software + hardware + intelligence** 🚀
-
----
+📫 GitHub ➡︎ https://github.com/mahbuburrahman21  
