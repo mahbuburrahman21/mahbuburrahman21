@@ -3,7 +3,8 @@
 I'm a Software Engineering student focused on building scalable and efficient systems.  
 I work mainly with **Java, Spring Boot, and modern web technologies**, with a strong foundation in core CS concepts.
 
-My goal is to become a high-level software engineer by mastering system design, backend development, and problem solving.
+My goal is to become a high-level software engineer by mastering system design, backend development, and problem solving. And I want to make scalable
+and optimized Software System. 
 
 ---
 
