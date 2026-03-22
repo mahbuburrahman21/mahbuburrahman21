@@ -16,5 +16,5 @@ and optimized Software System.
 
 ---
 
-📫 GitHub ➡︎ https://github.com/mahbuburrahman21  
+📫 LeetCode ➡︎ https://leetcode.com/u/mahbuburrahman21/
 💻 LinkedIn ➡︎ https://www.linkedin.com/in/md-mahbubur-rahman-149312246/
