@@ -25,21 +25,6 @@ I work mainly with **Java, Spring Boot, and modern web technologies**.
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=postgresql) |
 | **Core CS** | DSA, Object-Oriented Programming (OOP), Operating Systems |
 
----
-
-### 📊 GitHub Statistics (Focus: Java)
-
-<div align="center">
-  
-  <!-- This card shows your overall stats but HIDES C and C++ -->
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=mahbuburrahman21&show_icons=true&theme=tokyonight&hide=c,cpp" alt="Mahbubur's GitHub Stats" /> -->
-  
-  <br/>
-
-  <!-- This card shows your Top Languages and HIDES C and C++ -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbuburrahman21&layout=compact&theme=tokyonight&hide=c,cpp" alt="Top Languages" />
-
-</div>
 
 ---
 
